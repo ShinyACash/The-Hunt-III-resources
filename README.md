@@ -11,10 +11,16 @@ ummm les see...
 
 #Code hints (includes fake codes as well)
 
-'Little birds can remember'
+`Little birds can remember`
 
 `name of the waifu i really want`
 
-'pyroxene crystal?'
+`pyroxene crystal?`
 
-''
+`Look aroun github.`
+
+`my name? non.`
+
+`All hints so far were fake` //i mean that would just be mean at this point
+
+`file names? kinda hard for them...` //welp i AM giving them a free 90% off coupon- anyway.
